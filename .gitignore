@@ -1,0 +1,8 @@
+.DS_Store
+05-issues*.Rmd
+/public
+/02.2-wcag-overview.Rmd
+_main.*
+/images/*.png
+.Rproj.user
+/_bookdown_files

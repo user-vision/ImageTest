@@ -1,0 +1,60 @@
+--- 
+title: "UVXXXX - CLIENT UX Evaluation"
+author:
+- "**CONSULTANT NAME** - UX Consultant"
+- "**SENIOR CONSULTANT NAME**- Managing Director"
+date: "`r format(Sys.time(), '%d %B %Y')`"
+documentclass: article
+biblio-style: apalike
+link-citations: yes
+colorlinks: yes
+site: bookdown::bookdown_site
+header-includes:
+    - \usepackage[labelformat=empty]{caption}
+    - \usepackage{multicol}
+    - \usepackage{graphicx}
+delete_merged_file: true
+resource_files:
+- .github/rstudio-template.pptx
+output: 
+  md_document:
+    variant: gfm
+    fig_width: 8
+    fig_height: 4
+  bookdown::pdf_book:
+    number_sections: true
+    keep_tex: yes
+    includes:
+      in_header: tex/header.tex
+    template: tex/uv.tex
+    latex_engine: pdflatex
+  powerpoint_presentation:
+    reference_doc: .github/uv-template.pptx
+    slide_level: 2
+  bookdown::gitbook:
+    split_by: section
+    number_sections: true
+    fig_caption: true
+    css: 
+      - https://template-report.uservision.now.sh/style.css
+    config:
+      toc:
+        scroll_highlight: yes
+        collapse: section
+        before: |
+          <figure><img width="230" alt="User Vision logo" src="https://user-images.githubusercontent.com/912733/66764939-baf14f00-eea2-11e9-8428-4b9a07334b9c.png"></figure>
+        after: |
+          <footer>Prepared by <strong><a href="http://www.uservision.co.uk" target="blank">User Vision</a></strong> for CLIENT NAME</footer>
+      sharing: false
+      download: 
+        - ["accessibility_audit.pdf", "PDF"]
+---
+# Expert Evaluation {-}
+```{r , echo=FALSE, setup}
+pagebreak <- function() {
+  if(knitr::is_latex_output())
+    return("\\newpage")
+  else
+    return('<div style="page-break-before: always;" />')
+}
+```

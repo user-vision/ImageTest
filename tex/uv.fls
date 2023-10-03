@@ -1,0 +1,6 @@
+PWD /Users/grib/Development/User Vision/Sainsburys-Bank/tex
+INPUT /Users/grib/Library/TinyTeX/texmf.cnf
+INPUT /Users/grib/Library/TinyTeX/texmf-dist/web2c/texmf.cnf
+INPUT /Users/grib/Library/TinyTeX/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /Users/grib/Development/User Vision/Sainsburys-Bank/tex/uv.tex
+OUTPUT /Users/grib/Development/User Vision/Sainsburys-Bank/tex/uv.log

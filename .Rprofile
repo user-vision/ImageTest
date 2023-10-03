@@ -1,0 +1,6 @@
+require("bookdownplus")
+require("grid")
+require("gridExtra")
+library(ggplot2)
+library(gridExtra)
+library(grid)

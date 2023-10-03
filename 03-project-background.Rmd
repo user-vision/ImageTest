@@ -1,0 +1,29 @@
+## Objectives {-}
+
+[INSERT CLIENT] have approached User Vision to perform an expert evaluation of their website on desktop and on mobile.
+
+The expert evaluation was carried out by an experienced UX Consultant to assess any barriers the user might face when purchasing products or making a business enquiry on [INSERT CLIENT]'s website.
+
+[INSERT CLIENT] are looking at developing these journeys and have asked us to investigate areas of concern and the journey flow. We have also highlighted some accessibility issues in the journey.
+
+Our evaluation considers the following from the user’s perspective:
+
+- Homepage
+- [ADD JOURNEYS TO BE REVIEWED]
+- Navigation of the website
+- Content/Copy/labelling/calls to action
+
+We evaluated the site on desktop. The user experience on this responsive site is similar across devices, but we have highlighted mobile-specific usability issues where appropriate. 
+
+## Methodology {-}
+
+In an expert evaluation, an experienced UX Consultant walks through key journeys on a site and assesses the positive and negative aspects of the experience. The expert evaluation method is a structured assessment of the site interface and performance, based on: 
+
+- Reference to a set of recognised 'best practice' principles for interaction design
+- Knowledge and awareness of hot topics, research and opinion within the user experience and interaction design community
+- Experience observing and analysing hundreds of usability tests across all platforms, and knowledge of key barriers and pitfalls and how to effectively resolve them
+
+An expert evaluation can quickly reveal the outstanding user experience issues in terms of search, navigation, signposting and labelling, page layout, visual and interaction design, and other key aspects of the user experience on the site. 
+We provide recommendations throughout this report on how best to resolve these issues. Where appropriate, we present mock ups of solutions to the most serious usability problems.
+
+

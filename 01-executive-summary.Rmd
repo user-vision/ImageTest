@@ -1,0 +1,21 @@
+
+```{r, fig.cap="", fig.alt="CLIENT Logo", out.width="300px",  echo=FALSE}
+ include_image("https://user-images.githubusercontent.com/xxxxxx", img_dir = "images")
+```
+// ADD CLIENT LOGO URL ABOVE//
+
+## Executive Summary {-} 
+
+[INSERT CLIENT NAME] are looking to evaluate the XXXX journey on their website (INSERT CLIENT WEBSITE). 
+
+The expert evaluation looks at the user journey, identifying where barriers might occur from a UX perspective and presenting our recommended approach to fixing these issues. 
+
+We identified XX unique issues on THE [CLIENT] website. 
+
+Our top findings include:
+
+- [INSERT KEY FINDINGS]
+
+
+
+

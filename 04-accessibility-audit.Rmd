@@ -1,0 +1,34 @@
+## Tasks and Users {-}
+
+// OPTIONAL- USE BELOW AS A GUIDE- ALSO SEE TABL EXPERT EVALUATION FOR ADDITIONAL EXAMPLES //
+
+The following Personas and tasks guided the review:
+
+**Persona 1**: Professional with a nut allergy working from home during lockdown, looking for healthier snack options. 
+
+**Problem**: Quite hard to please and is quite picky with the food.  Dislikes raisins or vinegary snacks.
+
+**Task**: Find different snack boxes on the website to choose from and customize the box so he gets one with no rasins/ vinegary snacks.
+
+**Persona 2**: Business owner looking for new snacks for an office of 10 employees.  
+
+**Problem**: Lots of dietry requirements need to be taken into consideration as staff have multiple allergies.
+
+**Task**: Find information about snack boxes on the site and find the contact information to enquire about allergens and customised snack boxes.
+
+**Persona 3**: Building manager of an office block looking to provide vending solutions in the forecourt next to the reception area.
+
+**Problem**: There is a lot of footfall in this area but there is not enough space for a cafe to sell food. 
+
+**Task**: Find out what vending solutions are suitable for this type of environment.
+
+## Understanding our findings  {-}
+Issues found during this Expert Review have been identified and are supported by our recommendations. The findings have been classified as follows:
+
+| Ranking | Definition |
+|:--- |:--- |
+| Positive (P) | This approach is recommendable and should be preserved.                          	                            |
+| High (H) | Likely to cause a problem that frequently prevents users from completing their task or will greatly annoy them.  Important to fix this soon.            |
+| Medium (M) | Likely to cause some temporary confusion that delays users from reaching their goal with the site for some considerable time (30 secs – 1 minute), and causing some degree of frustration/irritation, but unlikely to prevent them from reaching their goal. 	|
+| Low (L) | Cosmetic or minor problem that may cause users to hesitate or be distracted for a few seconds. 	    |
+

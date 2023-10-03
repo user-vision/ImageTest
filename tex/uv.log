@@ -1,0 +1,48 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.11.2)  10 NOV 2020 12:16
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"/Users/grib/Development/User Vision/Sainsburys-Bank/tex/uv.tex"
+(/Users/grib/Development/User Vision/Sainsburys-Bank/tex/uv.tex
+LaTeX2e <2019-10-01> patch level 1
+
+/Users/grib/Development/User Vision/Sainsburys-Bank/tex/uv.tex:47: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47 $
+      if(dir)$
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 47.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 47.
+
+! LaTeX Error: File `$if(beamer)$$documentclass$$else$$if(book)$scrbook$else$scrartcl$endif$$endif$.cls' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: cls)
+
+Enter file name: 
+/Users/grib/Development/User Vision/Sainsburys-Bank/tex/uv.tex:79: Emergency stop.
+<read *> 
+         
+l.79 $
+      if(beamer)$^^M
+*** (cannot \read from terminal in nonstop modes)
+
+ 
+Here is how much of TeX's memory you used:
+ 18 strings out of 493487
+ 835 string characters out of 6154233
+ 61117 words of memory out of 5000000
+ 4270 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 372 hyphenation exceptions out of 8191
+ 18i,1n,12p,172b,56s stack positions out of 5000i,500n,10000p,200000b,80000s
+/Users/grib/Development/User Vision/Sainsburys-Bank/tex/uv.tex:79:  ==> Fatal error occurred, no output PDF file produced!
