@@ -1,0 +1,304 @@
+labels:
+  - name: 1.1.1
+    color: 00A6B2
+    description: WCAG 1.1.1 Level A- Non-text Content
+  - name: 1.2.1
+    color: 00E6B2
+    description: WCAG 1.2.1 Level A- Audio-only and Video-only (Prerecorded)
+  - name: 1.2.2
+    color: 00F6B2
+    description: WCAG 1.2.2 Level A- Captions (Prerecorded)
+  - name: 1.2.3
+    color: 00C6B2
+    description: WCAG 1.2.3 Level A- Audio Description or Media Alternative (Prerecorded)
+  - name: 1.2.4
+    color: 0DA6B2
+    description: WCAG 1.2.4 Level AA- Captions (Live)
+  - name: 1.2.5
+    color: 01D6B2
+    description: WCAG 1.2.5 Level AA- Audio Description (Prerecorded)
+  - name: 1.2.6
+    color: 00A6B2
+    description: WCAG 1.2.6 Level AAA- Sign Language (Prerecorded)
+  - name: 1.2.7
+    color: 00A6B2
+    description: WCAG 1.2.7 Level AAA- Extended Audio Description (Prerecorded)
+  - name: 1.2.8
+    color: 00A6B2
+    description: WCAG 1.2.8 Level AAA- Media Alternative (Prerecorded)
+  - name: 1.2.9
+    color: 00A6B2
+    description: WCAG 1.2.9 Level AAA- Audio-only (Live)
+  - name: 1.3.1
+    color: 00A6B2
+    description: WCAG 1.3.1 Level A- Information and Relationships
+  - name: 1.3.2
+    color: 00A6B2
+    description: WCAG 1.3.2 Level A- Meaningful sequence
+  - name: 1.3.3
+    color: 00A6B2
+    description: WCAG 1.3.3 Level A- Sensory Characteristics
+  - name: 1.3.4
+    color: 00A6B2
+    description: WCAG 1.3.4 Level AA- Orientation
+  - name: 1.3.5
+    color: 00A6B2
+    description: WCAG 1.3.5 Level AA- Identify Input purpose
+  - name: 1.3.6
+    color: 00A6B2
+    description: WCAG 1.3.6 Level AAA- Identify Purpose
+  - name: 1.4.1
+    color: 00A6B2
+    description: WCAG 1.4.1 Level A- Use of colour
+  - name: 1.4.2
+    color: 00A6B2
+    description: WCAG 1.4.2 Level A- Audio Control
+  - name: 1.4.3
+    color: 00A6B2
+    description: WCAG 1.4.3 Level A- Contrast (Minimum)
+  - name: 1.4.4
+    color: 00A6B2
+    description: WCAG 1.4.1 Level AA- Resize Text
+  - name: 1.4.5
+    color: 00A6B2
+    description: WCAG 1.4.5 Level AA- Images of text
+  - name: 1.4.6
+    color: 00A6B2
+    description: WCAG 1.4.6 Level AAA- Contrast (Enhanced)
+  - name: 1.4.7
+    color: 00A6B2
+    description: WCAG 1.4.7 Level AAA- Low or No Background Audio
+  - name: 1.4.8
+    color: 00A6B2
+    description: WCAG 1.4.8 Level AAA- Visual Presentation
+  - name: 1.4.9
+    color: 00A6B2
+    description: WCAG 1.4.9 Level AAA- Images of Text (No Exception)
+  - name: 1.4.10
+    color: 00A6B2
+    description: WCAG 1.4.10 Level AA- Reflow
+  - name: 1.4.11
+    color: 00A6B2
+    description: WCAG 1.4.11 Level AA- Non-text contrast
+  - name: 1.4.12
+    color: 00A6B2
+    description: WCAG 1.4.12 Level AA- Text Spacing
+  - name: 1.4.13
+    color: 00A6B2
+    description: WCAG 1.4.13 Level AA- Content on Hover or Focus
+  - name: 2.1.1
+    color: 70147A
+    description: WCAG 2.1.1 Level A- Keyboard
+  - name: 2.1.2
+    color: 70147A
+    description: WCAG 2.1.2 Level A- No Keyboard Trap
+  - name: 2.1.3
+    color: 70147A
+    description: WCAG 2.1.3 Level AAA- Keyboard (No Exception)
+  - name: 2.1.4
+    color: 70147A
+    description: WCAG 2.1.4 Level A- Character Key Shortcuts
+  - name: 2.2.1
+    color: 70147A
+    description: WCAG 2.2.1 Level A- Timing Adjustable
+  - name: 2.2.2
+    color: 70147A
+    description: WCAG 2.2.2 Level A- Pause, Stop, Hide
+  - name: 2.2.3
+    color: 70147A
+    description: WCAG 2.2.3 Level AAA- No Timing
+  - name: 2.2.4
+    color: 70147A
+    description: WCAG 2.2.4 Level AAA- Interruptions
+  - name: 2.2.5
+    color: 70147A
+    description: WCAG 2.2.5 Level AAA- Re-authenticating
+  - name: 2.2.6
+    color: 70147A
+    description: WCAG 2.2.6 Level AAA- Timeouts
+  - name: 2.3.1
+    color: 70147A
+    description: WCAG 2.3.1 Level A- Three flashes or below threshold
+  - name: 2.3.2
+    color: 70147A
+    description: WCAG 2.3.2 Level AAA- Three Flashes
+  - name: 2.3.3
+    color: 70147A
+    description: WCAG 2.3.3 Level AAA- Animation from Interactions
+  - name: 2.4.1
+    color: 70147A
+    description: WCAG 2.4.1 Level A- Bypass Blocks
+  - name: 2.4.2
+    color: 70147A
+    description: WCAG 2.4.2 Level A- Page Titled
+  - name: 2.4.3
+    color: 70147A
+    description: WCAG 2.4.3 Level A- Focus Order
+  - name: 2.4.4
+    color: 70147A
+    description: WCAG 2.4.4 Level A- Link Purpose (in context)
+  - name: 2.4.5
+    color: 70147A
+    description: WCAG 2.4.5 Level AA- Multiple Ways
+  - name: 2.4.6
+    color: 70147A
+    description: WCAG 2.4.6 Level AA- Headings and Labels
+  - name: 2.4.7
+    color: 70147A
+    description: WCAG 2.4.7 Level A- Focus Visible
+  - name: 2.4.8
+    color: 70147A
+    description: WCAG 2.4.8 Level AAA- Location
+  - name: 2.4.9
+    color: 70147A
+    description: WCAG 2.4.9 Level AAA- Link Purpose (Link Only)
+  - name: 2.4.10
+    color: 70147A
+    description: WCAG 2.4.10 Level AAA- Section Headings
+  - name: 2.4.11
+    color: 70147A
+    description: WCAG 2.4.11 Level AA- Focus Appearance
+  - name: 2.4.12
+    color: 70147A
+    description: WCAG 2.4.12 Level AA- Focus Not Obscured (Minimum)
+  - name: 2.4.13
+    color: 70147A
+    description: WCAG 2.4.13 Level AAA- Focus Not Obscured (Enhanced)
+  - name: 2.5.1
+    color: 70147A
+    description: WCAG 2.5.1 Level A- Pointer Gestures
+  - name: 2.5.2
+    color: 70147A
+    description: WCAG 2.5.2 Level A- Pointer Cancellation
+  - name: 2.5.3
+    color: 70147A
+    description: WCAG 2.5.3 Level A- Label in Name
+  - name: 2.5.4
+    color: 70147A
+    description: WCAG 2.5.4 Level A- Motion Actuation
+  - name: 2.5.5
+    color: 70147A
+    description: WCAG 2.5.5 Level AAA- Target Size
+  - name: 2.5.6
+    color: 70147A
+    description: WCAG 2.5.6 Level AAA- Concurrent Input Mechanisms
+  - name: 2.5.7
+    color: 70147A
+    description: WCAG 2.5.7 Level AA- Dragging Movements
+  - name: 2.5.8
+    color: 70147A
+    description: WCAG 2.5.8 Level AA- Target Size (Minimum)    
+  - name: 3.1.1
+    color: D36D00
+    description: WCAG 3.1.1 Level A- Language of page
+  - name: 3.1.2
+    color: D36D00
+    description: WCAG 3.1.2 Level AA- Language of Parts
+  - name: 3.1.3
+    color: D36D00
+    description: WCAG 3.1.3 Level AAA- Unusual Words
+  - name: 3.1.4
+    color: D36D00
+    description: WCAG 3.1.4 Level AAA- Abbreviations
+  - name: 3.1.5
+    color: D36D00
+    description: WCAG 3.1.5 Level AAA-  Reading Level
+  - name: 3.1.6
+    color: D36D00
+    description: WCAG 3.1.6 Level AAA-  Pronunciation
+  - name: 3.2.1
+    color: D36D00
+    description: WCAG 3.2.1 Level A- On Focus
+  - name: 3.2.2
+    color: D36D00
+    description: WCAG 3.3.2 Level A- On Input
+  - name: 3.2.3
+    color: D36D00
+    description: WCAG 3.2.3 Level AA- Consistent Navigation
+  - name: 3.2.4
+    color: D36D00
+    description: WCAG 3.2.4 Level AA- Consistent Identification
+  - name: 3.2.5
+    color: D36D00
+    description: WCAG 3.2.5 Level AAA-  Pronunciation
+  - name: 3.2.6
+    color: D36D00
+    description: WCAG 3.2.6 Level A - Consistent Help
+  - name: 3.3.1
+    color: D36D00
+    description: WCAG 3.3.1 Level A- Error Identification
+  - name: 3.3.2
+    color: D36D00
+    description: WCAG 3.3.2 Level A- Labels or Instructions
+  - name: 3.3.3
+    color: D36D00
+    description: WCAG 3.3.3 Level AA- Error Suggestion
+  - name: 3.3.4
+    color: D36D00
+    description: WCAG 3.3.4 Level AA- Error Prevention (Legal, Financial, Data)
+  - name: 3.3.5
+    color: D36D00
+    description: WCAG 3.3.5 Level AAA- Help
+  - name: 3.3.6
+    color: D36D00
+    description: WCAG 3.3.6 Level AAA- Error Prevention (All)
+  - name: 3.3.7
+    color: D36D00
+    description: WCAG 3.3.7 Level A - Redundant Entry (A)
+  - name: 3.3.8
+    color: D36D00
+    description: WCAG 3.3.8 Level AA - Accessible Authentication
+  - name: 3.3.9
+    color: D36D00
+    description: WCAG 3.3.9 Level AAA - Accessible Authentication (No Exception)
+  - name: 4.1.1
+    color: 968C28
+    description: WCAG 4.1.1 Level A- Parsing
+  - name: 4.1.2
+    color: 968C28
+    description: WCAG 4.1.2 Level A- (Name, Role, Value)
+  - name: 4.1.3
+    color: 968C28
+    description: WCAG 4.1.3 Level AA- Status Messages
+  - name: duplicate
+    color: cfd3d7
+    description: This issue or pull request already exists
+  - name: High
+    color: ff0000
+    description: High Impact
+  - name: Low
+    color: fff000
+    description: Low Impact
+  - name: Medium
+    color: ff9900
+    description: Medium Impact
+  - name: Observation
+    color: 663399
+    description: Observation
+  - name: Positive
+    color: 0e8a16
+    description: Positive finding
+  - name: U
+    color: 0BE583
+    description: Usability issue
+  - name: Android
+    color: 7a49a5
+    description: Android
+  - name: Desktop
+    color: bfd4f2
+    description: Desktop
+  - name: iOS
+    color: e5830b
+    description: iOS
+  - name: iPhone
+    color: 4974a5
+    description: iPhone
+  - name: iPad
+    color: 4974a5
+    description: iPad
+  - name: Tablet
+    color: 4974a5
+    description: Tablet
+  - name: Mobile
+    color: 66ba2a
+    description: Mobile
