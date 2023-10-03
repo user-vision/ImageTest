@@ -1,0 +1,214 @@
+labels:
+  - name: 1.1.1
+    color: 320A28
+    description: WCAG 1.1.1 Level A - Non-text Content
+  - name: 1.2.1
+    color: 8E443D
+    description: WCAG 1.2.1 Level A - Audio-only and Video-only (Prerecorded)
+  - name: 1.2.2
+    color: 00A6B2
+    description: WCAG 1.2.2 Level A - Captions (Prerecorded)
+  - name: 1.2.3
+    color: A07178
+    description: WCAG 1.2.3 Level A - Audio Description or Media Alternative (Prerecorded)
+  - name: 1.2.4
+    color: 00A6B2
+    description: WCAG 1.2.4 Level AA - Captions (Live)
+  - name: 1.2.5
+    color: 00A6B2
+    description: WCAG 1.2.5 Level AA - Audio Description (Prerecorded)
+  - name: 1.3.1
+    color: C8CC92
+    description: WCAG 1.3.1 Level A- Information and Relationships
+  - name: 1.3.2
+    color: 4D243D
+    description: WCAG 1.3.2 Level A- Meaningful sequence
+  - name: 1.3.3
+    color: 00A6B2
+    description: WCAG 1.3.3 Level A- Sensory Characteristics
+  - name: 1.3.4
+    color: 00A6B2
+    description: WCAG 1.3.4 Level AA- Orientation
+  - name: 1.3.5
+    color: 00A6B2
+    description: WCAG 1.3.5 Level AA- Identify Input purpose
+  - name: 1.4.1
+    color: 00A6B2
+    description: WCAG 1.4.1 Level A- Use of colour
+  - name: 1.4.2
+    color: 00A6B2
+    description: WCAG 1.4.2 Level A- Audio Control
+  - name: 1.4.3
+    color: 98CBB4
+    description: WCAG 1.4.3 Level A- Contrast (Minimum)
+  - name: 1.4.4
+    color: 423B0B
+    description: WCAG 1.4.1 Level AA- Resize Text
+  - name: 1.4.5
+    color: 7BA098
+    description: WCAG 1.4.5 Level AA- Images of text
+  - name: 1.4.10
+    color: 00A6B2
+    description: WCAG 1.4.10 Level AA- Reflow
+  - name: 1.4.11
+    color: 00A6B2
+    description: WCAG 1.4.11 Level AA- Non-text contrast
+  - name: 1.4.12
+    color: AA6373
+    description: WCAG 1.4.12 Level AA- Text Spacing
+  - name: 1.4.13
+    color: 00A6B2
+    description: WCAG 1.4.13 Level AA- Content on Hover or Focus
+  - name: 2.1.1
+    color: 06BA63
+    description: WCAG 2.1.1 Level A- Keyboard
+  - name: 2.1.2
+    color: 70147A
+    description: WCAG 2.1.2 Level A- No Keyboard Trap
+  - name: 2.1.4
+    color: 70147A
+    description: WCAG 2.1.4 Level A- Character Key Shortcuts
+  - name: 2.2.1
+    color: 70147A
+    description: WCAG 2.2.1 Level A- Timing Adjustable
+  - name: 2.2.2
+    color: 70147A
+    description: WCAG 2.2.2 Level A- Pause, Stop, Hide
+  - name: 2.3.1
+    color: 70147A
+    description: WCAG 2.3.1 Level A- Three flashes or below threshold
+  - name: 2.4.1
+    color: 9593D9
+    description: WCAG 2.4.1 Level A- Bypass Blocks
+  - name: 2.4.2
+    color: 70147A
+    description: WCAG 2.4.2 Level A- Page Titled
+  - name: 2.4.3
+    color: 96C0B7
+    description: WCAG 2.4.3 Level A- Focus Order
+  - name: 2.4.4
+    color: 8AB0AB
+    description: WCAG 2.4.4 Level A- Link Purpose (in context)
+  - name: 2.4.5
+    color: 70147A
+    description: WCAG 2.4.5 Level AA- Multiple Ways
+  - name: 2.4.6
+    color: 70147A
+    description: WCAG 2.4.6 Level AA- Headings and Labels
+  - name: 2.4.7
+    color: 84A98C
+    description: WCAG 2.4.7 Level A- Focus Visible
+  - name: 2.4.11
+    color: 70147A
+    description: WCAG 2.4.11 Level AA- Focus Appearance
+  - name: 2.4.12
+    color: 70147A
+    description: WCAG 2.4.12 Level AA- Focus Not Obscured (Minimum)
+  - name: 2.5.1
+    color: 70147A
+    description: WCAG 2.5.1 Level A- Pointer Gestures
+  - name: 2.5.2
+    color: 70147A
+    description: WCAG 2.5.2 Level A- Pointer Cancellation
+  - name: 2.5.3
+    color: 70147A
+    description: WCAG 2.5.3 Level A- Label in Name
+  - name: 2.5.4
+    color: 70147A
+    description: WCAG 2.5.4 Level A- Motion Actuation
+  - name: 2.5.7
+    color: 70147A
+    description: WCAG 2.5.7 Level AA- Dragging Movements
+  - name: 2.5.8
+    color: 70147A
+    description: WCAG 2.5.8 Level AA- Target Size (Minimum)    
+  - name: 3.1.1
+    color: D36D00
+    description: WCAG 3.1.1 Level A- Language of page
+  - name: 3.1.2
+    color: D36D00
+    description: WCAG 3.1.2 Level AA- Language of Parts
+  - name: 3.2.1
+    color: D36D00
+    description: WCAG 3.2.1 Level A- On Focus
+  - name: 3.2.2
+    color: 59C3C3
+    description: WCAG 3.3.2 Level A- On Input
+  - name: 3.2.3
+    color: D36D00
+    description: WCAG 3.2.3 Level AA- Consistent Navigation
+  - name: 3.2.4
+    color: D36D00
+    description: WCAG 3.2.4 Level AA- Consistent Identification
+  - name: 3.2.6
+    color: D36D00
+    description: WCAG 3.2.6 Level A - Consistent Help
+  - name: 3.3.1
+    color: E0ACD5
+    description: WCAG 3.3.1 Level A- Error Identification
+  - name: 3.3.2
+    color: 3993DD
+    description: WCAG 3.3.2 Level A- Labels or Instructions
+  - name: 3.3.3
+    color: D36D00
+    description: WCAG 3.3.3 Level AA- Error Suggestion
+  - name: 3.3.4
+    color: D36D00
+    description: WCAG 3.3.4 Level AA- Error Prevention (Legal, Financial, Data)
+  - name: 3.3.7
+    color: D36D00
+    description: WCAG 3.3.7 Level A - Redundant Entry (A)
+  - name: 3.3.8
+    color: D36D00
+    description: WCAG 3.3.8 Level AA - Accessible Authentication
+  - name: 4.1.1
+    color: 968C28
+    description: WCAG 4.1.1 Level A- Parsing
+  - name: 4.1.2
+    color: CCDDB7
+    description: WCAG 4.1.2 Level A- (Name, Role, Value)
+  - name: 4.1.3
+    color: 88D18A
+    description: WCAG 4.1.3 Level AA- Status Messages
+  - name: duplicate
+    color: cfd3d7
+    description: This issue or pull request already exists
+  - name: High
+    color: F25757
+    description: High Impact
+  - name: Low
+    color: 91F291
+    description: Low Impact
+  - name: Medium
+    color: F2F230
+    description: Medium Impact
+  - name: Observation
+    color: C2D3CD
+    description: Observation
+  - name: Positive
+    color: 0e8a16
+    description: Positive finding
+  - name: Usability
+    color: 0BE583
+    description: Usability issue
+  - name: Android
+    color: 7a49a5
+    description: Android
+  - name: Desktop
+    color: bfd4f2
+    description: Desktop
+  - name: iOS
+    color: e5830b
+    description: iOS
+  - name: iPhone
+    color: 4974a5
+    description: iPhone
+  - name: iPad
+    color: 4974a5
+    description: iPad
+  - name: Tablet
+    color: 4974a5
+    description: Tablet
+  - name: Mobile
+    color: 66ba2a
+    description: Mobile

@@ -1,0 +1,438 @@
+{
+  "1.1.1": {
+    "Criterion": "Non-text Content",
+    "Level": "A",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/non-text-content.html"
+  },
+  "1.2.1": {
+    "Criterion": "Audio-only and Video-only (Prerecorded)",
+    "Level": "A",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/audio-only-and-video-only-prerecorded"
+  },
+  "1.2.2": {
+    "Criterion": "Captions (Prerecorded)",
+    "Level": "A",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/captions-prerecorded"
+  },
+  "1.2.3": {
+    "Criterion": "Audio Description or Media Alternative (Prerecorded)",
+    "Level": "A",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/audio-description-or-media-alternative-prerecorded"
+  },
+  "1.2.4": {
+    "Criterion": "Captions (Live)",
+    "Level": "AA",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/captions-live"
+  },
+  "1.2.5": {
+    "Criterion": "Audio Description (Prerecorded)",
+    "Level": "AA",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/audio-description-prerecorded"
+  },
+  "1.2.6": {
+    "Criterion": "Sign Language (Prerecorded)",
+    "Level": "AAA",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/sign-language-prerecorded"
+  },
+  "1.2.7": {
+    "Criterion": "Extended Audio Description (Prerecorded)",
+    "Level": "AAA",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/extended-audio-description-prerecorded"
+  },
+  "1.2.8": {
+    "Criterion": "Media Alternative (Prerecorded)",
+    "Level": "AAA",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/media-alternative-prerecorded"
+  },
+  "1.2.9": {
+    "Criterion": "Audio-only (Live)",
+    "Level": "AAA",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/audio-only-live"
+  },
+  "1.3.1": {
+    "Criterion": "Info and Relationships",
+    "Level": "A",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/info-and-relationships"
+  },
+  "1.3.2": {
+    "Criterion": "Meaningful Sequence",
+    "Level": "A",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/meaningful-sequence"
+  },
+  "1.3.3": {
+    "Criterion": "Sensory Characteristics",
+    "Level": "A",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/sensory-characteristics"
+  },
+  "1.3.4": {
+    "Criterion": "Orientation",
+    "Level": "AA",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/orientation"
+  },
+  "1.3.5": {
+    "Criterion": "Identify Input Purpose",
+    "Level": "AA",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/identify-input-purpose"
+  },
+  "1.3.6": {
+    "Criterion": "Identify Purpose",
+    "Level": "AAA",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/identify-purpose"
+  },
+  "1.4.1": {
+    "Criterion": "Use of Color",
+    "Level": "A",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/use-of-color"
+  },
+  "1.4.2": {
+    "Criterion": "Audio Control",
+    "Level": "A",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/audio-control"
+  },
+  "1.4.3": {
+    "Criterion": "Contrast (Minimum)",
+    "Level": "AA",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum"
+  },
+  "1.4.4": {
+    "Criterion": "Resize text",
+    "Level": "AA",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/resize-text"
+  },
+  "1.4.5": {
+    "Criterion": "Images of Text",
+    "Level": "AA",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/images-of-text"
+  },
+  "1.4.6": {
+    "Criterion": "Contrast (Enhanced)",
+    "Level": "AAA",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced"
+  },
+  "1.4.7": {
+    "Criterion": "Low or No Background Audio",
+    "Level": "AAA",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/low-or-no-background-audio"
+  },
+  "1.4.8": {
+    "Criterion": "Visual Presentation",
+    "Level": "AAA",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/visual-presentation"
+  },
+  "1.4.9": {
+    "Criterion": "Images of Text (No Exception)",
+    "Level": "AAA",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/images-of-text-no-exception"
+  },
+  "1.4.10": {
+    "Criterion": "Reflow",
+    "Level": "AA",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/reflow"
+  },
+  "1.4.11": {
+    "Criterion": "Non-text Contrast",
+    "Level": "AA",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/non-text-contrast"
+  },
+  "1.4.12": {
+    "Criterion": "Text Spacing",
+    "Level": "AA",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/text-spacing"
+  },
+  "1.4.13": {
+    "Criterion": "Content on Hover or Focus",
+    "Level": "AA",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/content-on-hover-or-focus"
+  },
+  "2.1.1": {
+    "Criterion": "Keyboard",
+    "Level": "A",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/keyboard"
+  },
+  "2.1.2": {
+    "Criterion": "No Keyboard Trap",
+    "Level": "A",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/no-keyboard-trap"
+  },
+  "2.1.3": {
+    "Criterion": "Keyboard (No Exception)",
+    "Level": "AAA",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/keyboard-no-exception"
+  },
+  "2.1.4": {
+    "Criterion": "Character Key Shortcuts",
+    "Level": "A",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/character-key-shortcuts"
+  },
+  "2.2.1": {
+    "Criterion": "Timing Adjustable",
+    "Level": "A",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/timing-adjustable"
+  },
+  "2.2.2": {
+    "Criterion": "Pause, Stop, Hide",
+    "Level": "A",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/pause-stop-hide"
+  },
+  "2.2.3": {
+    "Criterion": "No Timing",
+    "Level": "AAA",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/no-timing"
+  },
+  "2.2.4": {
+    "Criterion": "Interruptions",
+    "Level": "AAA",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/interruptions"
+  },
+  "2.2.5": {
+    "Criterion": "Re-authenticating",
+    "Level": "AAA",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/re-authenticating"
+  },
+  "2.2.6": {
+    "Criterion": "Timeouts",
+    "Level": "AAA",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/timeouts"
+  },
+  "2.3.1": {
+    "Criterion": "Three Flashes or Below Threshold",
+    "Level": "A",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/three-flashes-or-below-threshold"
+  },
+  "2.3.2": {
+    "Criterion": "Three Flashes",
+    "Level": "AAA",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/three-flashes"
+  },
+  "2.3.3": {
+    "Criterion": "Animation from Interactions",
+    "Level": "AAA",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/animation-from-interactions"
+  },
+  "2.4.1": {
+    "Criterion": "Bypass Blocks",
+    "Level": "A",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/bypass-blocks"
+  },
+  "2.4.2": {
+    "Criterion": "Page Titled",
+    "Level": "A",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/page-titled"
+  },
+  "2.4.3": {
+    "Criterion": "Focus Order",
+    "Level": "A",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/focus-order"
+  },
+  "2.4.4": {
+    "Criterion": "Link Purpose (In Context)",
+    "Level": "A",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-in-context"
+  },
+  "2.4.5": {
+    "Criterion": "Multiple Ways",
+    "Level": "AA",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/multiple-ways"
+  },
+  "2.4.6": {
+    "Criterion": "Headings and Labels",
+    "Level": "AA",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/headings-and-labels"
+  },
+  "2.4.7": {
+    "Criterion": "Focus Visible",
+    "Level": "A",
+    "Reference": "https://www.w3.org/WAI/WCAG22/Understanding/focus-visible"
+  },
+  "2.4.8": {
+    "Criterion": "Location",
+    "Level": "AAA",
+    "Reference": "https://www.w3.org/WAI/WCAG22/Understanding/location"
+  },
+  "2.4.9": {
+    "Criterion": "Link Purpose (Link Only)",
+    "Level": "AAA",
+    "Reference": "https://www.w3.org/WAI/WCAG22/Understanding/link-purpose-link-only"
+  },
+  "2.4.10": {
+    "Criterion": "Section Headings",
+    "Level": "AAA",
+    "Reference": "https://www.w3.org/WAI/WCAG22/Understanding/section-headings"
+  },
+  "2.4.11": {
+    "Criterion": "Focus Appearance",
+    "Level": "AA",
+    "Reference": "https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance.html"
+  },
+  "2.4.12": {
+    "Criterion": "Focus Not Obscured (Minimum)",
+    "Level": "AA",
+    "Reference": "https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum.html"
+  },
+  "2.4.13": {
+    "Criterion": "Focus Not Obscured (Enhanced)",
+    "Level": "AAA",
+    "Reference": "https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-enhanced.html"
+  },
+  "2.5.1": {
+    "Criterion": "Pointer Gestures",
+    "Level": "A",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/pointer-gestures"
+  },
+  "2.5.2": {
+    "Criterion": "Pointer Cancellation",
+    "Level": "A",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/pointer-cancellation"
+  },
+  "2.5.3": {
+    "Criterion": "Label in Name",
+    "Level": "A",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/label-in-name"
+  },
+  "2.5.4": {
+    "Criterion": "Motion Actuation",
+    "Level": "A",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/motion-actuation"
+  },
+  "2.5.5": {
+    "Criterion": "Target Size (Enhanced)",
+    "Level": "AAA",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/target-size"
+  },
+  "2.5.6": {
+    "Criterion": "Concurrent Input Mechanisms",
+    "Level": "AAA",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/concurrent-input-mechanisms"
+  },
+  "2.5.7": {
+    "Criterion": "Dragging Movements",
+    "Level": "AA",
+    "Reference": "https://www.w3.org/WAI/WCAG22/Understanding/dragging-movements.html"
+  },
+  "2.5.8": {
+    "Criterion": "Target Size (Minimum)",
+    "Level": "AA",
+    "Reference": "https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html"
+  },
+  "3.1.1": {
+    "Criterion": "Language of Page",
+    "Level": "A",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/language-of-page"
+  },
+  "3.1.2": {
+    "Criterion": "Language of Parts",
+    "Level": "AA",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/language-of-parts"
+  },
+  "3.1.3": {
+    "Criterion": "Unusual Words",
+    "Level": "AAA",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/unusual-words"
+  },
+  "3.1.4": {
+    "Criterion": "Abbreviations",
+    "Level": "AAA",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/abbreviations"
+  },
+  "3.1.5": {
+    "Criterion": "Reading Level",
+    "Level": "AAA",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/reading-level"
+  },
+  "3.1.6": {
+    "Criterion": "Pronunciation",
+    "Level": "AAA",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/pronunciation"
+  },
+  "3.2.1": {
+    "Criterion": "On Focus",
+    "Level": "A",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/on-focus"
+  },
+  "3.2.2": {
+    "Criterion": "On Input",
+    "Level": "A",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/on-input"
+  },
+  "3.2.3": {
+    "Criterion": "Consistent Navigation",
+    "Level": "AA",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/consistent-navigation"
+  },
+  "3.2.4": {
+    "Criterion": "Consistent Identification",
+    "Level": "AA",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/consistent-identification"
+  },
+  "3.2.5": {
+    "Criterion": "Change on Request",
+    "Level": "AAA",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/change-on-request"
+  },
+  "3.2.6": {
+    "Criterion": "Consistent Help",
+    "Level": "A",
+    "Reference": "https://www.w3.org/WAI/WCAG22/Understanding/consistent-help.html"
+  },
+  "3.3.1": {
+    "Criterion": "Error Identification",
+    "Level": "A",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/error-identification"
+  },
+  "3.3.2": {
+    "Criterion": "Labels or Instructions",
+    "Level": "A",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/labels-or-instructions"
+  },
+  "3.3.3": {
+    "Criterion": "Error Suggestion",
+    "Level": "AA",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/error-suggestion"
+  },
+  "3.3.4": {
+    "Criterion": "Error Prevention (Legal, Financial, Data)",
+    "Level": "AA",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/error-prevention-legal-financial-data"
+  },
+  "3.3.5": {
+    "Criterion": "Help",
+    "Level": "AAA",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/help"
+  },
+  "3.3.6": {
+    "Criterion": "Error Prevention (All)",
+    "Level": "AAA",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/error-prevention-all"
+
+  },
+  "3.3.7": {
+    "Criterion": "Redundant Entry",
+    "Level": "A",
+    "Reference": "https://www.w3.org/WAI/WCAG22/Understanding/redundant-entry.html"
+  }, 
+  "3.3.8": {
+    "Criterion": "Accessible Authentication",
+    "Level": "AA",
+    "Reference": "https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication"
+  }, 
+  "3.3.9": {
+    "Criterion": "Accessible Authentication (Enhanced)",
+    "Level": "AAA",
+    "Reference": "https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-no-exception.html"
+  },  
+  "4.1.1": {
+    "Criterion": "Parsing",
+    "Level": "A",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/parsing"
+  },
+  "4.1.2": {
+    "Criterion": "Name, Role, Value",
+    "Level": "A",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/name-role-value"
+  },
+  "4.1.3": {
+    "Criterion": "Status Messages",
+    "Level": "AA",
+    "Reference": "https://www.w3.org/WAI/WCAG21/Understanding/status-messages"
+  }
+}
