@@ -1,0 +1,5 @@
+output_dir: "public"
+language:
+    label:
+      fig: "FIGURE "
+      tab: "TABLE "

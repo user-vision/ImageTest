@@ -1,0 +1,36 @@
+
+## How to use this report  {-}
+Getting the most out of this report
+
+- When doing a web audit, the majority of the accessibility issues will be identified within the code of the site.
+
+- In order to present the issues correctly, we highlight the issues as we have seen them, often using browser side manipulations. 
+
+- We have also provided practical recommendations (at code level where possible) which need to be interpreted by the web development team. 
+
+- As such the ‘findings’ section of the report is aimed primarily at the web development team as they will be responsible for fixing the issues. We recommend that your lead developer reads this report and is actively involved in the project. 
+
+- The summary and next steps are written to guide the management and product owners to get an understanding of the situation and to recommend what to do next. 
+
+- When issues occur across multiple pages findings are duplicated in each relevant section.
+
+- We conduct audits on Google Chrome before testing on Internet Explorer and Firefox. If the issue is marked with the 'Desktop' label, the issues persist across all browsers. If the issue is unique to the browser, it is marked with the IE or Firefox label. 
+
+- We run an automated accessibility checking tool in Accessibility Insights. These findings are indicated with the label 'Automated findings'.
+
+
+## Understanding our findings  {-}
+Issues found during this accessibility audit have been identified and are supported by our recommendations. The findings have been classified as follows:
+
+| WCAG Guideline | Level of web accessibility conformance |
+|:--|:--|
+| WCAG 2.1 |  Level A (lowest), AA, AAA (highest) |
+
+| Ranking | Definition |
+|:--- |:--- |
+| Positive (P) | An example of good practise which should be maintained.                          	                            |
+| High (H) | An issue which would prevent one or more disability groups from being able to use the site as intended.            |
+| Medium (M) |  An issue which would cause one or more disability groups significant difficulty using the site as intended. 	|
+| Low (L) | An issue which would cause one or more disability groups some inconvenience when using the site as intended. 	    |
+| Observation (O) | Not necessarily an accessibility concern, but an area on the site which could cause a usability issue.    	|
+

@@ -1,0 +1,8 @@
+## Summary of Findings {-} 
+
+// Edit as appropriate //
+
+On **INSERT PLATFORM** we identified 51 unique issues with 13 duplicates.
+
+The top findings we identified include:
+

@@ -1,0 +1,27 @@
+# Project Background {-}
+<!-- USE PROJECT CONTRACT FOR PROJECT BACKGROUND -->
+**INSERT CLIENT NAME** have approached User Vision to perform an accessibility audit of  **INSERT PLATFORM** on desktop on mobile.
+
+The audit is designed to capture accessibility issues so that **THE CLIENT** can ensure the website provides an accessible experience to customers and ensure that they are in control of the interface they are interacting with.
+
+The goal is to help make sure that this site is accessible to the widest possible audience by complying with Web Content Accessibility Guidelines (WCAG) 2.1 Level AA. 
+
+## Approach {-}
+<!-- UPDATE AS APPROPRIATE -->
+
+The following approach was taken for the accessibility audit by a team of experienced accessibility consultants from User Vision.
+
+- Automated testing using Accessibility Insights and Powermapper. 
+
+- Manual accessibility evaluation to code level using browser code inspectors, an approach that identifies issues that cannot be captured by automated tools.
+
+- We viewed the application in a range of browsers:
+    - Chrome, Firefox and IE on desktop.
+    - Safari on iPad & iPhone.
+
+- We assessed pages using the following assistive technology:
+    - NVDA (with Firefox and Chrome) screen reader for desktop.
+    - VoiceOver for iPad & iPhone (iOS).
+    - Talkback for Android 
+
+- We checked colour combinations using a colour contrast analyser to determine if there is enough contrast in the visual presentation.
