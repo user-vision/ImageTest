@@ -1,0 +1,7 @@
+# (PART) Recommendations {-}
+# Suggested Next Steps
+What we recommend happens next. 
+
+- Consider the recommended changes in priority order
+- Perform spot checks once changes have been made to confirm those pages are accessible
+- We would suggest that the site is tested with disabled users to gather further insight into the usability of the application

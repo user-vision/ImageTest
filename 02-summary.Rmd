@@ -1,0 +1,21 @@
+## Summary of Findings {-} 
+
+// Edit as appropriate //
+
+On **INSERT PLATFORM** we identified XX issues
+
+The top findings we identified include:
+
+**INSERT FINDINGS**
+// Format as bulleted list, with sub-bullets linking to the h2 of the issues in question, plus their severity level in brackets. //
+- [Example H2 text (High)] 
+
+## WCAG 2.1 Overview {-}
+
+A single instance of non-compliance with a guideline equates to a fail on that guideline. Any "not applicable" issues equate to a pass on that guideline. 
+**In order to achieve AA compliance you must satisfy all of the level A and level AA criteria.**
+
+_WCAG 2.1 contains 30 criteria at Level A and an additional 20 at Level AA (50 Level A and AA criteria in total)._
+
+<!-- _WCAG 2.2 contains 33 criteria at Level A and an additional 24 at Level AA (57 Level A and AA criteria in total)._ -->
+

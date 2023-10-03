@@ -1,0 +1,14 @@
+
+```{r, fig.cap="", fig.alt="Client Logo", out.width="300px",  echo=FALSE}
+ include_image("https://user-images.githubusercontent.com/44382025/79581056-cb88b900-80c1-11ea-81d3-cbd93a7a405d.png", img_dir = "images")
+```
+
+## Executive Summary {-} 
+
+<!-- Edit as appropriate -->
+
+It is important to **INSERT CLIENT NAME** that they have a clear understanding of any accessibility issues for users of their website. User Vision was commissioned to perform an accessibility audit of **INSERT PLATFORM**.
+
+The aim of the audit is to determine whether there are any accessibility barriers remaining on the site. It is designed to capture any issues so that **INSERT CLIENT NAME** can make sure that the application can be used by the widest possible audience by complying with Web Content Accessibility Guidelines (WCAG) V2.1 Level A and Level AA.
+
+The audit was carried out on desktop (using NVDA), Android (using TalkBack), and iPhone (using VoiceOver). Overall, we found similar issues across the assistive technologies, however, we have highlighted when they interacted differently with the site in this report.

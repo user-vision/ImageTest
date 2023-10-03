@@ -1,0 +1,24 @@
+# SECTION HEADING {-}
+
+
+## ISSUE (SEVERITY)
+
+:::::::::::::: {.columns}
+::: {.column}
+
+![IMAGE](https://user-images.githubusercontent.com/912733/66764939-baf14f00-eea2-11e9-8428-4b9a07334b9c.png)
+
+
+
+:::
+::: {.column}
+### WCAG REFERENCE - PLATFORMS
+ISSUE DETAILS
+
+### Recommendation
+RECOMMENDATIONS
+
+:::
+::::::::::::::
+
+---
